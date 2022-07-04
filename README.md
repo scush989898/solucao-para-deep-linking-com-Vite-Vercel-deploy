@@ -1,0 +1,1 @@
+# solucao-para-deep-linking-com-vite-React-deploy
